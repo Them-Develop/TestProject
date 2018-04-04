@@ -1,0 +1,10 @@
+diff a/TestProject/Assets/DebugLogger.cs b/TestProject/Assets/DebugLogger.cs	(rejected hunks)
+@@ -4,6 +4,8 @@
+ 
+ public class DebugLogger : MonoBehaviour {
+ 
++    //変えた
++
+ 	// Use this for initialization
+ 	void Start () {
+ 		
