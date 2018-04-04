@@ -9,7 +9,7 @@ public class DebugLogger : MonoBehaviour {
 		
 	}
 	
-	// Update is called once per frame
+    //Confrict
 	void Update () {
 		
 	}
