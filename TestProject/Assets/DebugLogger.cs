@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class DebugLogger : MonoBehaviour {
 
+    //変えた
+
 	// Use this for initialization
 	void Start () {
 		
